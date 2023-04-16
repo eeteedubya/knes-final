@@ -23,14 +23,14 @@
     </li>
     <li>
       <p>Try closing your eyes. An alarm will play if you keep your eyes closed.  It will stop when you open your eyes.
-    If you keep your eyes closed for an extended period of time, the alarm will get louder.
-    
-    1. If the score is below 6 then driver is alert so no alarm [crisp]
-    2. If the score is low or driver is slightly drowsy then volume of alarm is low 
-    3. If the score is medium or driver is somewhat drowsy then volume of alarm is medium
-    4. If the score is high or driver is very drowsy then volume of alarm is high
-    
-    </p>
+        If you keep your eyes closed for an extended period of time, the alarm will get louder.
+          <li>
+              1. If the score is below 6 then driver is alert so no alarm [crisp]<br>
+              2. If the score is low or driver is slightly drowsy then volume of alarm is low<br> 
+              3. If the score is medium or driver is somewhat drowsy then volume of alarm is medium<br>
+              4. If the score is high or driver is very drowsy then volume of alarm is high<br>
+          </li>
+      </p>
     </li>
     <li>
       <p>When you're done, click the "stop" button to release your camera before you close the application</p>
